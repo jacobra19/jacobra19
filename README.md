@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://101trading.co.uk/wp-content/uploads/2015/04/horizon_00364590-1030x412.jpg)
+![alt text](https://media-exp1.licdn.com/dms/image/C5116AQEzZz21gV7XQg/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=MkpTTYJTQwzf7lHbG1GdkE3KGMiXS3dSJ0wWv9EsEwc)
 
 <!--
 **jacobra19/jacobra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
