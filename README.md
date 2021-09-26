@@ -1,6 +1,6 @@
 ### Hi There 👋,
 
-I'm a frontend web developer from Israel, Here you can find my open-source projects.
+I'm a frontend web developer from Israel, Here you can find my open-source projects.</br>
 I also maintain a blog about web development, this is my latest post: https://www.yakov.dev/my-plans-and-goals-for-2021/
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
