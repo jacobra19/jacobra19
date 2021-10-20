@@ -3,7 +3,7 @@
 I'm a frontend web developer from Israel, Here you can find my open-source projects.</br>
 I also maintain a blog about web development, this is my latest post: https://www.yakov.dev/my-plans-and-goals-for-2021/
 
-<div style={display:flex;}>
+<div style="display:flex;">
   <a href="https://github.com/MartinHeinz/MartinHeinz" style={flex:5}>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobra19&show_icons=true&line_height=20&count_private=true&theme=dark" alt="Yakov's GitHub Stats" />
 </a>
