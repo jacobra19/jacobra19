@@ -3,12 +3,15 @@
 I'm a frontend web developer from Israel, Here you can find my open-source projects.</br>
 I also maintain a blog about web development, this is my latest post: https://www.yakov.dev/my-plans-and-goals-for-2021/
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<div style={display:flex;}>
+  <a href="https://github.com/MartinHeinz/MartinHeinz" style={flex:5}>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobra19&show_icons=true&line_height=20&count_private=true&theme=dark" alt="Yakov's GitHub Stats" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/MartinHeinz/MartinHeinz" style={flex:4}>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobra19&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact&line_height=50" />
 </a>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
