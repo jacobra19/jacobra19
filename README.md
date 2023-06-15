@@ -1,7 +1,7 @@
 ### Hi There 👋,
 
 I'm a frontend web developer from Israel, Here you can find my open-source projects.</br>
-I also maintain a blog about web development, this is my latest post: https://www.yakov.dev/my-plans-and-goals-for-2021/
+I also maintain a blog about web development, https://www.yakov.dev
 
 <div style="display:flex;">
 <div style="display:flex; flex-direction:row;">
