@@ -3,13 +3,6 @@
 I'm a frontend web developer from Israel, Here you can find my open-source projects.</br>
 I also maintain a blog about web development, https://www.yakov.dev
 
-<div style="display:flex;">
-<div style="display:flex; flex-direction:row;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobra19&count_private=true&show_icons=true" alt="Yakov's GitHub Stats" />
-
-</div>
-
-
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/rakhamimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakhamimov" height="30" width="40" /></a>  
