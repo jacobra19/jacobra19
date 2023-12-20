@@ -1,1 +1,3 @@
-echo "hello from text"
+echo "hello from text" after change
+
+alias cd="$$$; cd"
